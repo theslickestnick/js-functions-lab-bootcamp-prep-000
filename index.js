@@ -6,4 +6,3 @@ function happyHolidaysTo(holiday, name) {
   return ("Happy holidays, " + name + "!")
   return ("Happy holidays, " + holiday + name + "!")
 }
-
