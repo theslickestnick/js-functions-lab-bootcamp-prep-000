@@ -3,8 +3,8 @@ function happyHolidays() {
   return "Happy holidays!"
 }
 function happyHolidaysTo(holiday, name) {
-  if (name === Giulia)
+  if (name === name)
   return ("Happy holidays, " + name + "!")
-  else (holiday === Thanksgiving, name === Giulia)
+  else (holiday === holiday, name === name)
   return ("Happy holidays, " + holiday + name + "!")
 }
